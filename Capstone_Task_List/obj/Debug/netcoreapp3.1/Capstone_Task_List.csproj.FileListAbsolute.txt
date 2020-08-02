@@ -1,0 +1,13 @@
+C:\Users\yllek\source\repos\Capstone_Task_List\Capstone_Task_List\obj\Debug\netcoreapp3.1\Capstone_Task_List.csprojAssemblyReference.cache
+C:\Users\yllek\source\repos\Capstone_Task_List\Capstone_Task_List\obj\Debug\netcoreapp3.1\Capstone_Task_List.AssemblyInfoInputs.cache
+C:\Users\yllek\source\repos\Capstone_Task_List\Capstone_Task_List\obj\Debug\netcoreapp3.1\Capstone_Task_List.AssemblyInfo.cs
+C:\Users\yllek\source\repos\Capstone_Task_List\Capstone_Task_List\obj\Debug\netcoreapp3.1\Capstone_Task_List.csproj.CoreCompileInputs.cache
+C:\Users\yllek\source\repos\Capstone_Task_List\Capstone_Task_List\bin\Debug\netcoreapp3.1\Capstone_Task_List.exe
+C:\Users\yllek\source\repos\Capstone_Task_List\Capstone_Task_List\bin\Debug\netcoreapp3.1\Capstone_Task_List.deps.json
+C:\Users\yllek\source\repos\Capstone_Task_List\Capstone_Task_List\bin\Debug\netcoreapp3.1\Capstone_Task_List.runtimeconfig.json
+C:\Users\yllek\source\repos\Capstone_Task_List\Capstone_Task_List\bin\Debug\netcoreapp3.1\Capstone_Task_List.runtimeconfig.dev.json
+C:\Users\yllek\source\repos\Capstone_Task_List\Capstone_Task_List\bin\Debug\netcoreapp3.1\Capstone_Task_List.dll
+C:\Users\yllek\source\repos\Capstone_Task_List\Capstone_Task_List\bin\Debug\netcoreapp3.1\Capstone_Task_List.pdb
+C:\Users\yllek\source\repos\Capstone_Task_List\Capstone_Task_List\obj\Debug\netcoreapp3.1\Capstone_Task_List.dll
+C:\Users\yllek\source\repos\Capstone_Task_List\Capstone_Task_List\obj\Debug\netcoreapp3.1\Capstone_Task_List.pdb
+C:\Users\yllek\source\repos\Capstone_Task_List\Capstone_Task_List\obj\Debug\netcoreapp3.1\Capstone_Task_List.genruntimeconfig.cache
